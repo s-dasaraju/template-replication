@@ -1,0 +1,18 @@
+--------------------------------------------------------------------------------
+Makelog started: 2023-02-01 09:06:31
+Working directory: /Users/jccp/Desktop/template/analysis
+--------------------------------------------------------------------------------
+Input links successfully created!
+External links successfully created!
+Source logs successfully written!
+Version logs successfully written!
+Executing command: `python  "/Users/jccp/Desktop/template/analysis/code/analyze_data.py" `
+/usr/local/Caskroom/miniconda/base/envs/template/lib/python3.11/site-packages/linearmodels/panel/model.py:1183: MissingValueWarning: 
+Inputs contain missing values. Dropping rows with missing observations.
+  super().__init__(dependent, exog, weights=weights, check_rank=check_rank)
+
+Output logs successfully written!
+--------------------------------------------------------------------------------
+Makelog ended: 2023-02-01 09:06:36
+Working directory: /Users/jccp/Desktop/template/analysis
+--------------------------------------------------------------------------------
