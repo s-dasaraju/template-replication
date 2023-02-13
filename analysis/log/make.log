@@ -1,0 +1,17 @@
+--------------------------------------------------------------------------------
+Makelog started: 2022-09-14 11:47:33
+Working directory: /oak/stanford/groups/gentzkow/jccp/template/analysis
+--------------------------------------------------------------------------------
+Input links successfully created!
+External links successfully created!
+Source logs successfully written!
+Executing command: `python  "/oak/stanford/groups/gentzkow/jccp/template/analysis/code/analyze_data.py" `
+/home/statauser/miniconda3/envs/template/lib/python3.7/site-packages/linearmodels/shared/exceptions.py:35: MissingValueWarning: 
+Inputs contain missing values. Dropping rows with missing observations.
+  warnings.warn(missing_value_warning_msg, MissingValueWarning)
+
+Output logs successfully written!
+--------------------------------------------------------------------------------
+Makelog ended: 2022-09-14 11:47:38
+Working directory: /oak/stanford/groups/gentzkow/jccp/template/analysis
+--------------------------------------------------------------------------------

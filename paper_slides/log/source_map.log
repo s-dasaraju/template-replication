@@ -1,0 +1,3 @@
+destination | source
+input/regression.csv | /oak/stanford/groups/gentzkow/jccp/template/analysis/output/regression.csv
+input/chips_sold.pdf | /oak/stanford/groups/gentzkow/jccp/template/data/output/chips_sold.pdf
