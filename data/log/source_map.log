@@ -1,0 +1,4 @@
+destination | source
+input/lib | /Users/etang/dev/gslab/gentzkow-template/lib
+input/tv.csv | /Users/etang/dev/gslab/gentzkow-template/raw/tv.csv
+input/chips.csv | /Users/etang/dev/gslab/gentzkow-template/raw/chips.csv
