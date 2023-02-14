@@ -1,5 +1,6 @@
 # `config_user.yaml` is ignored as it contains user-specific settings
-*config_user.yaml
+*config_user.yaml 
+*.bash_profile
 
 # `/external/` and `/input/` subdirectories are ignored as they should contain symbolic links, which are user-specific and can be automatically created via `gslab_make`
 *external/
